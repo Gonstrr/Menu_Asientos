@@ -11,6 +11,7 @@ let btnCancelar = $(`#btnCancelar`);
 let btnCancelarListar = $(`#btnCancelarListar`);
 
 class Aplications
+
 {
     constructor()
     {
