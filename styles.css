@@ -1,0 +1,51 @@
+*
+{
+    margin: center;
+    padding: 0;
+    box-sizing:border-box;
+
+}
+
+body
+{
+    font-family: 'Gluten', cursive;
+    background-color: wheat;
+}
+
+table
+{
+    margin: 3% 0;
+    font-size: 25px;
+
+}
+td
+{
+    color: crimson;
+    background-color: palevioletred;
+    width: 90px;
+    height: 65px; 
+    border: 1px solid gray;
+}
+.oculto
+{
+    display: none;
+}
+.pintar
+{
+    background-color: darkturquoise;
+}
+#secAsientosInfo, #secListar, .form-horizontal
+{
+    margin: 30px 0;
+}
+
+#fondo
+{
+    position: fixed;
+    top: 10px;
+    z-index: -2;
+    opacity: 0.3;
+    padding: 50px;
+    left: 0px;
+
+}
